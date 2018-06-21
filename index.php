@@ -1,2 +1,9 @@
 <?php
-echo 'test';exit();
+class test{
+    public function __constract(){
+        
+    }
+    public function setTest(){
+        return 'text';
+    }
+}
