@@ -1,0 +1,12 @@
+{
+    "name": "miapenso/design",
+    "authors": [
+        {
+            "name": "miapenso",
+            "email": "ywc2501@qq.com"
+        }
+    ],
+    "require": {
+	"php": ">=5.3.0"
+    }
+}
